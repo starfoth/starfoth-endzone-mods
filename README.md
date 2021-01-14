@@ -2,7 +2,10 @@
 Commerce++ is a mod for EndZone a World apart survival city builder game ([Endzone-Game.com](https://endzone-game.com/)).
 
 # Features
-TODO: Add features
+None
+
+#Current TODO
+Make Pharmacy, General Goods Store, and Industrial Supplier
 
 # Installation
 1) Fist of all you need to obtain mod loader PatchZone. To get it follow [Installation guide](https://github.com/InflexCZE/PatchZone#installation).
