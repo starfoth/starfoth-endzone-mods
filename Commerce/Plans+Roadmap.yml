@@ -1,0 +1,43 @@
+Buildings
+ Pharmacy: Herbs(100), Medicine(50), and Iodine Tablets(50) [Currency, 3 utensil research]
+ General Goods Store: Tools (50), Clothing (50) [Currency, 3 utensil research]
+ Industrial Supplier: Any raw or intermediate resource (200[?]) [Industrial Space Planning, 5 utensil research]
+ 
+ Advanced Hospital: Functionally identical and the same size as a hospital but can produce iodine tablets and medicine together similar to the refinery [City Services, 5 utensil research]
+ Advanced Pub: Functionally identical and the same size as a hospital but can produce all 3 luxury items together similar to the refinery [Advanced Pub, 1 utensil research]
+ Advanced Kitchen: Functionally identical and the same size as a kitchem but can produce all 3 forms of cooked food together similar to a refinery [Advanced Kitchen, 3 utensil research]
+
+ Electrical Substation: A larger battery building, no specific advantages and is more expensive. Exists simply to make maintenance easier by having a single larger building with the same energy storage to space ratio [Industrial Space Planning, 5 utensil research]
+ Civil Services Complex: A large campfire-sized building that functions like the campfire. Has smaller departments for fire, police, and city services. [City Services, 5 Utensil Research]
+Mechanics
+ Global Limit Exceptions: Some buildings will come with exceptions to the global limit and will seek to continue to produce equipment to supply certain logistic buildings. IE any tool maker or tailor connected to a general goods store will produce extra tools and clothes to fill it up if there are no clothes or tools in range of the general goods store and it is not full.
+ Kitchen Changes: Kitchens will be moved to a 1 utensil research and be vastly less efficient (10 raw food + 10 water for 20 cakes instead of 100)
+ Research additions: All basic logistic  buildings above will be seperated into different research  slots
+
+Decorations
+ Commercial/Civil
+  Fountain: A small water fountain, acts as an irrigation point with a very small radius and consumption. Can keep a small market-sized radius green during droughts
+  Cafe: A non-functional building that looks like it serves food and drinks, functions as a campfire [Currency, 3 utensil research]
+  Artisan Shop: A non-functional building that looks like it sells furniture, toys, and sundries [Currency, 3 utensil research]
+  Tables: A small set of tables that goes good with the cafe
+  Playground: A small playground for children, functions as a campfire
+  Rec Room: An open-space rec room with chess, horseshoes, cards, and other recreational games, functions as a campfire [Currency, 3 utensil research]
+  Sports Yard: A generic sports yard, functions as a campfire
+  Chapel: A small chapel, functions as a campfire
+ Industrial
+  Container Yard: A small storage yard w/ containers that looks like it connects to a warehouse or can act as a yard for a warehouse [Industrial Organization, 1 utensil research]
+  Mining Equipment Yard: An accessory to mines, contains a storehouse, skips, and other mining knickknacks [Industrial Organization, 1 utensil research]
+  Vehicle Yard: A motor pool with very small vehicles [Industrial Organization, 1 utensil research]
+ Military
+  Soldier Camp: A small fort w/ guard towers and a weapons depot so you can pretend to have an army. Can host up to 10 scout jobs. [Wasteland Militia, 1 utensil research]
+  Weapons Factory: A large 4-technician workshop, themed to look like a military building but just makes tools [Post-Nuclear Army, 5 utensil research]
+  Military Equipment Factory: A large 4-tailor building, themed to look like a military building but just makes clothes [Post-Nuclear Army, 5 utensil research]
+  Airbase: A soldier camp that has several landing pads for airships. Can host up to 10 scout jobs. [Post-Nuclear Army, 5 utensil research]
+  
+  
+  
+  
+Roadmap
+ Current Project: Pharmacy, General Goods Store, Industrial Supplier
+ 
+ Next Project: Global Limit Exceptions
