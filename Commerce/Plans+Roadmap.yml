@@ -6,7 +6,9 @@ Buildings
  Advanced Hospital: Functionally identical and the same size as a hospital but can produce iodine tablets and medicine together similar to the refinery [City Services, 5 utensil research]
  Advanced Pub: Functionally identical and the same size as a hospital but can produce all 3 luxury items together similar to the refinery [Currency, 1 utensil research]
  Advanced Kitchen: Functionally identical and the same size as a kitchem but can produce all 3 forms of cooked food together similar to a refinery [Advanced Kitchen, 3 utensil research]
- 
+ Coffee/Tea Shop: Like the pub but serves and produces coffee and tea and very small
+ Cafe: Works like a small kitchen [Currency, 1 utensil research]
+  
  Sweatshop: 8-person 4x size tailor shop, can produce any clothes [Industrial Space Planning, 5 utensil research]
  Factory: 8-person 4x size workshop, can produce any tools [Industrial Space Planning, 5 utensil research]
 
@@ -23,7 +25,6 @@ Mechanics
 Decorations
  Commercial/Civil
   Fountain: A small water fountain, acts as an irrigation point with a very small radius and consumption. Can keep a small market-sized radius green during droughts
-  Cafe: A non-functional building that looks like it serves food and drinks, functions as a campfire [Currency, 1 utensil research]
   Artisan Shop: A non-functional building that looks like it sells furniture, toys, and sundries [Currency, 1 utensil research]
   Tables: A small set of tables that goes good with the cafe
   Playground: A small playground for children, functions as a campfire
@@ -42,21 +43,23 @@ Decorations
   Airbase: A soldier camp that has several landing pads for airships. Can host up to 10 scout jobs. [Post-Nuclear Army, 5 utensil research]
   
   
-Books [36 attractiveness total]
- Fiction Books (1 attractiveness each, common on map, inexpensive) [10]
+Books [40 attractiveness total]
+ Fiction Books (1 attractiveness each, common on map, inexpensive) [12]
   The Warlock of Palladia Series
   The Adventures of Raymundo Collection
   Pleasantview Mystery Series
-  Point Farmer, The Story of Grant Rodiek
+  Point Farmer Series
   Jimmy Sprocket Series
   The Crumplebottom Legacy
   Game of Thorns Series
   Zombies? Zombies! Series
   GPod Series
   Unicorns for Audrey Series
+  The Sauntering Dead Series
+  A Doll's House Series
  
- Non-Fiction Books (1 attractiveness each, rare on map, inexpensive) [10]
-  Encyclopedia Simmanica
+ Non-Fiction Books (1 attractiveness each, rare on map, inexpensive) [12]
+  Encyclopedia Collection
   History of the World Encyclopedias
   Political Encyclopedias
   Military Encyclopedias
@@ -66,6 +69,8 @@ Books [36 attractiveness total]
   Film Training Books
   Social Books
   Travel Guides
+  Archaeology Book Collection
+  Biography Collection
   
  Comics (1 attractiveness each, common on map) [10]
   Adventures in the Wasteland Comic Collection
@@ -98,10 +103,13 @@ Books (Non-printable)
  University Book Collection (Increases Education speed)
  Engineering Book Collection (Speeds up construction)
  Fishing Guide Books (Increases fishing rate)
- Childhood Development Books (Increases lifespan)
- Poetry Book Collection (Increases campfire attractiveness)
- Music Composition Collection (Increases campfire attractiveness)
- 
+ Childhood Development Books (Increases lifespan +2)
+ Fitness Books (Increases Lifespan +2)
+ Poetry Book Collection (Increases campfire attractiveness +2)
+ Music Composition Collection (Increases campfire attractiveness +2)
+ Fabrication Manuals (Slightly increases workshop and tailor production)
+ Botany Manuals (Slightly increase herbalist and gatherer production)
+ Guide to Painting (Increase attractiveness of all houses by +5)
  
 Roadmap
  Current Project: Pharmacy, General Goods Store, Industrial Supplier
